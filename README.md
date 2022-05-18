@@ -3,9 +3,11 @@
 Contiene ficheros de datos y código para Jupyter Notebooks, para el análisis de entradas devueltas por Google Sccholar 
 con los términos de búsqueda "identidad cultural" y "cultural identity"
 
-Ficheros de datos:
+Ficheros de datos (xls y csv):
 - CULTURAL_IDENTITY_GOOGLE_SEARCH.csv
 - IDENTIDAD_CULTURAL_GOOGLE_SEARCH.csv
+- CULTURAL_IDENTITY_GOOGLE_SEARCH.xls
+- IDENTIDAD_CULTURAL_GOOGLE_SEARCH.xls
 
 Ficheros de código
 - analysis_google_cultural_identity.ipynb
